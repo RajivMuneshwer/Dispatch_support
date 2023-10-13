@@ -26,6 +26,11 @@ Follow these steps to get started with Dispatch:
 5. **Driver Information:** Drivers on their "Info" screen can log their stops. It will track who or what they picked up, their current odometer reading, the car they are using and the time of the pickup. Pressing the "+" button adds more logs. These can be accessed with the dispatch API for backoffice tracking.
 
 
+## Copyright
+
+© 2023 Muneshwers Limited.
+
+
 ## Support
 
 If you encounter any issues or have questions, please contact our support team at [rajivmuneshwer.muneshwers@gmail.com](mailto:rajivmuneshwer.muneshwers@gmail.com).
