@@ -28,7 +28,7 @@ Follow these steps to get started with Dispatch:
 
 ## Support
 
-If you encounter any issues or have questions, please contact our support team at [rajivmuneshwer.muneshwer@gmail.com](mailto:rajivmuneshwer.muneshwers@gmail.com).
+If you encounter any issues or have questions, please contact our support team at [rajivmuneshwer.muneshwers@gmail.com](mailto:rajivmuneshwer.muneshwers@gmail.com).
 
 ## Acknowledgments
 
